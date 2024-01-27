@@ -1,0 +1,1 @@
+Students{Persons{id=1, name='hieu', address='a', birthDate=Wed Oct 10 00:00:00 ICT 2001, height=60.0, weight=5.0}studentId='1234567890', currentUniversity='b', startYear=2001, cumulativeGpa=8.0, academicPerformance=EXCELLENT}
